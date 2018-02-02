@@ -1,0 +1,7 @@
+{
+  "name": "test_angular",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "angular-route": "^1.6.9"
+  }
+}
